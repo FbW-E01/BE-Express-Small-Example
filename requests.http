@@ -1,0 +1,7 @@
+POST http://localhost:3009/post-office
+Content-Type: application/json
+
+{
+    "username": "CoolJoel1985",
+    "password": "SuperSecretPass1234"
+}
